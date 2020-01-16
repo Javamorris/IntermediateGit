@@ -1,12 +1,13 @@
 Shopping List
 
-apples
-5 bananas
-yogurt
-milk
-bread
+red apples
+6 bananas
+vanilla yogurt
+2% milk
+what bread
+>>>>>>> fba311d... Update shopping items
 cereal
-eggs
+12 eggs
 bacon
 orange juice
 grapes
